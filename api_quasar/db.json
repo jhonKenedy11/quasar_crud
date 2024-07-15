@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "opsssssssssssssssss",
+      "author": "Jhon Kenedy",
+      "content": "<div style=\"text-align: center;\">Este é um teste de API REST com quasar e Vue3 <u>sssssssssssssssssssssssssssssss</u></div>"
+    },
+    {
+      "id": "2",
+      "title": "Teste de api REST",
+      "author": "Jhon Kenedy",
+      "content": "Este é um teste de API REST com quasar e Vue3"
+    },
+    {
+      "id": "3",
+      "title": "Teste de api REST",
+      "author": "Jhon Kenedy",
+      "content": "Este é um teste de API REST com quasar e Vue3"
+    },
+    {
+      "id": "6bee",
+      "title": "test",
+      "content": "teste",
+      "author": "teste"
+    },
+    {
+      "id": "7665",
+      "title": "teste",
+      "content": "teste",
+      "author": "test"
+    },
+    {
+      "id": "67d2",
+      "title": "teste",
+      "content": "teste",
+      "author": "teste"
+    },
+    {
+      "id": "8700",
+      "title": "teste",
+      "content": "teste",
+      "author": "teste"
+    },
+    {
+      "id": "ad6c",
+      "title": "outro teste ",
+      "content": "<b>teste de conteudo de artig</b>",
+      "author": "Joaozinho"
+    }
+  ]
+}
